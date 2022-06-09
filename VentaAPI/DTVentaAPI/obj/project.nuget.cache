@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKUE2Z4DKc3NRPtkZPiKrOXIfwyj4uLSSOP7MD92dKpgrtcfBm5SvbLOhdmRpmeot/xZM3kU2I//M3GUXbfxAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorgehrv\\source\\repos\\VentaAPI\\DTVentaAPI\\DTVentaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorgehrv\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\jorgehrv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\jorgehrv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jorgehrv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jorgehrv\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\jorgehrv\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\jorgehrv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
